@@ -26,16 +26,20 @@ Estoy siempre abierto a discutir sobre nuevos desafíos, oportunidades de colabo
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| 💼 **LinkedIn** | [linkedin.com/in/[Tu-LinkedIn]](https://linkedin.com/in/[Tu-LinkedIn]) |
-| 📧 **Email** | [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com) |
-| 🌐 **Portfolio/Web** | [https://www.tu-sitio-web.dev](https://www.tu-sitio-web.dev) |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/dilinyer-castillo/ |
+| 📧 **Email** | dilinyercr@gmail.com |
+| 🌐 **Portfolio/Web** | https://dilinyercr-fullstack-portfolio.netlify.app/ |
 
 ---
-<div align="center">
-  
-### ✨ ¡Gracias por visitar mi perfil! ¡Feliz codificación!
-  
-</div>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dilinyercr)
+
+  
+<div align="center">
+  
+### ✨ ¡Gracias por visitar mi perfil! ¡Happy Coding!
+  
+</div>
+
+
